@@ -1,4 +1,3 @@
-
 This code supports the publication [An integrated modelling framework from cells to organism based on a cohort of digital embryos](http://www.nature.com/articles/srep37438) , Villoutreix et al., Scientific Reports, 6:37438, 2016.
 
 
